@@ -1,0 +1,221 @@
+
+------Start of new log------
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Output Console Stream Event: More positive odd numbers
+
+------Start of new log------
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Output Console Stream Event: Same amount of numbers
+
+------Start of new log------
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Output Console Stream Event: Same amount of numbers
+
+------Start of new log------
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Output Console Stream Event: Same amount of numbers
+
+------Start of new log------
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Output Console Stream Event: More negative odd numbers
+
+------Start of new log------
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Output Console Stream Event: More odd numbers
+
+------Start of new log------
+
+------Start of new log------
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Output Console Stream Event: More odd numbers
+
+------Start of new log------
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Output Console Stream Event: More odd numbers
+
+------Start of new log------
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Function Equality Event: processArgument evaluated
+Variable Change Receiver Event: incremented number of positive elements
+Function Equality Event: processArgument evaluated
+Output Console Stream Event: More odd numbers

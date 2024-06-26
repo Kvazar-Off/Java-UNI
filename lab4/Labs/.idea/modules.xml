@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lab4/ClientSeverSocket/LabServer/LabServer.iml" filepath="$PROJECT_DIR$/lab4/ClientSeverSocket/LabServer/LabServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labs.iml" filepath="$PROJECT_DIR$/Labs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab4/ClientSeverSocket/MyClient/MyClient.iml" filepath="$PROJECT_DIR$/lab4/ClientSeverSocket/MyClient/MyClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab4/ClientSeverSocket/MyServer/MyServer.iml" filepath="$PROJECT_DIR$/lab4/ClientSeverSocket/MyServer/MyServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab4/ClientSeverSocket/TCPClient/TCPClient.iml" filepath="$PROJECT_DIR$/lab4/ClientSeverSocket/TCPClient/TCPClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab4/ClientSeverSocket/TCPServer/TCPServer.iml" filepath="$PROJECT_DIR$/lab4/ClientSeverSocket/TCPServer/TCPServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab4/ClientSeverSocket/Test/Test.iml" filepath="$PROJECT_DIR$/lab4/ClientSeverSocket/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab4/lab4.iml" filepath="$PROJECT_DIR$/lab4/lab4.iml" />
+    </modules>
+  </component>
+</project>
